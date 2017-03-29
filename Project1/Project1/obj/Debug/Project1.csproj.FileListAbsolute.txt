@@ -1,0 +1,6 @@
+D:\School\CSUSM\Spring 2017\CS 471\Project1\Project1\Project1\bin\Debug\Project1.exe.config
+D:\School\CSUSM\Spring 2017\CS 471\Project1\Project1\Project1\bin\Debug\Project1.exe
+D:\School\CSUSM\Spring 2017\CS 471\Project1\Project1\Project1\bin\Debug\Project1.pdb
+D:\School\CSUSM\Spring 2017\CS 471\Project1\Project1\Project1\obj\Debug\Project1.csprojResolveAssemblyReference.cache
+D:\School\CSUSM\Spring 2017\CS 471\Project1\Project1\Project1\obj\Debug\Project1.exe
+D:\School\CSUSM\Spring 2017\CS 471\Project1\Project1\Project1\obj\Debug\Project1.pdb
